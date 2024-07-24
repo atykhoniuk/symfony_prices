@@ -17,8 +17,8 @@ class ProcessBinDataCommandTest extends KernelTestCase
     private ExchangeRateManager $exchangeRateManager;
     private CommandTester $commandTester;
     private BinListClient $binListClientMock;
-
     private ExchangeRateClient $exchangeRateClientMock;
+
     protected function setUp(): void
     {
         parent::setUp();
