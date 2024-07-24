@@ -1,6 +1,7 @@
 # Project Setup and Usage
 
-Welcome to the project! This project include one command regarding to doc and some tests
+Welcome to the project! This project include one command regarding to doc and some tests.
+You can get errors because we use free API.
 
 ## Table of Contents
 
